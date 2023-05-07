@@ -1,4 +1,3 @@
-(https://media-exp1.licdn.com/dms/image/C4D16AQF5feYelj5EzA/profile-displaybackgroundimage-shrink_350_1400/0/1656188995098?e=1662595200&v=beta&t=yXQ5LCdQLN37CIMn5IioEo6ZLurClQ9qjgK1LCUaSg0)
 <h1 align="center">Hi 👋, I'm Hardik Jhalani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
